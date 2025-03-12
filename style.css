@@ -98,7 +98,7 @@ a:visited {
   color: blue;
   text-decoration-color: blue;
 }
-  a:any-link{
+  a:link, a[href ^="#"]{
     color: #a66;
     text-decoration-color:  #a66;
 }
